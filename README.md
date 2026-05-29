@@ -40,4 +40,3 @@ ecommerce-analysis/
 ## 👤 Author
 **Vivek Siluni**
 - Email: vsiluni@gmail.com
-- Location: Roorkee, India
